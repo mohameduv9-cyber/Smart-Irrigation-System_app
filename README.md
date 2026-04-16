@@ -20,3 +20,4 @@ Backend: [Node.js / Firebase]
 Hardware/IoT: [ESP32]
 
 Database: [fire base]
+![App Icon](assets/images/icon.png)
